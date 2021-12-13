@@ -22,4 +22,10 @@ describe('Test quidax login', ()=>{
 
         })
     })
+    it('Verify the presence of Verify Button', ()=>{
+        cy.fixture('elementMapper').then((em)=>{
+            actions.pageLoader(em.verifyButton);
+
+        })
+    })
 })
