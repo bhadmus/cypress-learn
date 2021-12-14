@@ -4,5 +4,6 @@
     "passwordField": "#identity_password",
     "emailText": "quidaxqa@gmail.com",
     "passwordText":"Password1",
-    "signInButton": ".cta > .btn"
+    "signInButton": ".cta > .btn",
+    "verifyButton": "#ga-submit-button"
 }
