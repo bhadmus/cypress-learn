@@ -3,5 +3,6 @@
     "defaultCommandTimeout": 30000,
     "viewportHeight": 900,
     "viewportWidth": 1400,
-    "videoUploadOnPasses": false
+    "videoUploadOnPasses": false,
+    "watchForFileChanges": false
 }
