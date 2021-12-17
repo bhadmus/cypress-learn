@@ -1,8 +1,9 @@
 {
-    "baseUrl": "https://staging.qdx.ninja",
+    "baseUrl": "https://www.quidax.com/",
     "defaultCommandTimeout": 30000,
     "viewportHeight": 900,
     "viewportWidth": 1400,
     "videoUploadOnPasses": false,
-    "watchForFileChanges": false
+    "watchForFileChanges": false,
+    "testFiles": "**/*.feature"
 }

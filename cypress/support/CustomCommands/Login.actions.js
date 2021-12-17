@@ -2,7 +2,7 @@ import PageObjects from '../pageObjects/pageObjects'
 const page = new PageObjects();
 
 Cypress.Commands.add('openSite', () => { 
-    cy.visit('/');
+    cy.visit('/', {failOnStatusCode: false});
  })
 
 Cypress.Commands.add('clickAnElement', (element) => { 
