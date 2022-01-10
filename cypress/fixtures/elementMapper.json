@@ -2,8 +2,8 @@
     "signInIcon": "[href=\"/signin\"]",
     "emailField": "#identity_email",
     "passwordField": "#identity_password",
-    "emailText": "henryt1455@gmail.com",
-    "passwordText":"Tester@2020",
+    "emailText": "quidaxqa@gmail.com",
+    "passwordText":"Password1",
     "signInButton": ".cta > .btn",
     "verifyButton": "#ga-submit-button"
 }
